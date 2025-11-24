@@ -9,3 +9,5 @@ CREATE UNIQUE INDEX IF NOT EXISTS uniq_partners_company_id
 ON partners(company_id)
 WHERE company_id IS NOT NULL;
 
+
+

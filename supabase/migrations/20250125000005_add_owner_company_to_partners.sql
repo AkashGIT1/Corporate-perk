@@ -40,3 +40,5 @@ FOR SELECT
 TO authenticated
 USING (owner_company_id = auth.uid());
 
+
+

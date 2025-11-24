@@ -23,3 +23,5 @@ CREATE POLICY "Employees can log offer events"
     WITH CHECK (true);
 
 
+
+
